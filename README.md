@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on My Own Movie Search Site<br>👯 I’m looking to collaborate on Open Source Linux Projects<br>🤝 I’m looking for help with Data Structures and Algorithms<br>🌱 I’m currently learning Android<br>💬 Ask me about Movies, Animations, Programming<br>⚡ Fun fact I Think Mangoes Are Dumb
+🔭 I’m currently working on: My Own Movie Search Site<br>👯 I’m looking to collaborate on: Open Source Projects<br>🤝 I’m looking for help with: Data Structures and Algorithms<br>🌱 I’m currently learning: Android Programming with Kotlin<br>💬 Ask me about: Movies, Animations, Programming, Linux<br>⚡ Fun fact: I Think Mangoes Are Dumb
 
 
 ## 🌐 Socials:
