@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects<br>👯 I’m looking to collaborate on Java, VueJS && Spring Apps<br>🤝 I’m looking for help with Unit Testing<br>🌱 I’m currently learning Kotlin<br>💬 Ask me about Java && VueJS<br>⚡ Fun fact, my best movie franchise is Transformers
+🔭 I’m currently working on personal projects<br>👯 I’m looking to collaborate on Java, VueJS && Spring Apps<br>🤝 I’m looking for help with Unit Testing<br>🌱 I’m currently learning Dart && Flutter<br>💬 Ask me about Java && VueJS<br>⚡ Fun fact, my best movie franchise is Transformers
 
 
 ## 🌐 Socials:
